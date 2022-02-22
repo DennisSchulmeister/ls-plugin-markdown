@@ -1,0 +1,19 @@
+{
+  "name": "@dschulmeis/ls-plugin-markdown",
+  "version": "1.0.0",
+  "description": "lecture-slides.js plugin for markdown syntax",
+  "main": "index.js",
+  "repository": "git@github.com:DennisSchulmeister/ls-plugin-markdown.git",
+  "author": "Dennis Schulmeister-Zimolong <dennis@patk.org>",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "@dschulmeis/ls-utils": "^1.0.2",
+    "@sindresorhus/slugify": "^2.1.0",
+    "markdown-it": "^12.3.2",
+    "markdown-it-anchor": "^8.4.1",
+    "markdown-it-attrs": "^4.1.3"
+  },
+  "scripts": {
+    "do-publish": "npm publish --access=public"
+  }
+}
