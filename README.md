@@ -86,5 +86,5 @@ Copyright
 lecture-slides.js: https://www.github.com/DennisSchulmeister/lecture-slides.js <br/>
 mini-tutorial.js: https://www.github.com/DennisSchulmeister/mini-tutorial.js <br/>
 ls-plugin-markdown: https://github.com/DennisSchulmeister/ls-plugin-markdown <br/>
-© 2022 Dennis Schulmeister-Zimolong <dennis@pingu-mail.de>
+© 2022 Dennis Schulmeister-Zimolong <dennis@pingu-mail.de> <br/>
 Licensed under the 2-Clause BSD License.
