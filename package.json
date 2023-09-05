@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "git@github.com:DennisSchulmeister/ls-plugin-markdown.git",
   "author": "Dennis Schulmeister-Zimolong <dennis@patk.org>",
-  "license": "AGPL-3.0",
+  "license": "BSD-2-Clause",
   "dependencies": {
     "@dschulmeis/ls-utils": "^1.0.2",
     "@sindresorhus/slugify": "^2.1.0",
